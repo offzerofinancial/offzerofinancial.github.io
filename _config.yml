@@ -24,7 +24,9 @@ author:
   email: contact@offzerofinancial.com
 email: contact@offzerofinancial.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  © Off-Zero Financial, LLC. 2024. All rights reserved.
+
+Investment advisory services offered through Off-Zero Financial, LLC (“OZF”), an investment adviser registered with the Securities and Exchange Commission (SEC). Such registration does not imply endorsement or approval. Investing involves serious risks and past performance is no guarantee of future performance or success. This is not a solicitation or an offer to buy or sell securities and nothing contained herein should be interpreted as a recommendation or research regarding any investment or investment strategy, legal or tax advice.  
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.offzerofinancial.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
