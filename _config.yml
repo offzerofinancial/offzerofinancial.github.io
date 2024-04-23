@@ -25,16 +25,23 @@ author:
 email: contact@offzerofinancial.com
 description: >- # this means to ignore newlines until "baseurl:" 
   © Off-Zero Financial, LLC. 2024. All rights reserved.
-  Investment advisory services offered through Off-Zero Financial, LLC (\“OZF\”), an investment adviser registered with the Securities and Exchange Commission (SEC). Such registration does not imply endorsement or approval. Investing involves serious risks and past performance is no guarantee of future performance or success. This is not a solicitation or an offer to buy or sell securities and nothing contained herein should be interpreted as a recommendation or research regarding any investment or investment strategy, legal or tax advice.  
+#  Investment advisory services offered through Off-Zero Financial, LLC (\“OZF\”), an investment adviser registered with the Securities and Exchange Commission (SEC). Such registration does not imply endorsement or approval. Investing involves serious risks and past performance is no guarantee of future performance or success. This is not a solicitation or an offer to buy or sell securities and nothing contained herein should be interpreted as a recommendation or research regarding any investment or investment strategy, legal or tax advice.  
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.offzerofinancial.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+#github_username:  jekyll
 
 # Build settings
-theme: minima
+#theme: minima
+
+# As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
+# If you want to use the latest Minima version on GitHub Pages, use the following setting and 
+# add a line comment on "theme: minima" above.
+remote_theme: jekyll/minima
+
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -63,6 +70,7 @@ exclude:
 # in order as they should show up.
 header_pages:
   - news.md
+  - plan.md
   - about.md
 
 # Set to `true` to show excerpts on the homepage.
@@ -91,11 +99,11 @@ minima:
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #  - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
-    - { platform: github,         user_url: "https://github.com/khorner" }
+  #  - { platform: github,         user_url: "https://github.com/khorner" }
   #  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
   #  - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
   #  - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
-    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/kevinhorner" }
+  #  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/kevinhorner" }
   #  - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
   #  - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
   #  - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }

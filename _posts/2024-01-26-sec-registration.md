@@ -4,7 +4,7 @@ title:  "Off-Zero Financial, LLC Secures SEC Registration as Investment Advisor"
 date:   2024-01-26 18:16:19 -0600
 categories: SEC update
 ---
-FOR IMMEDIATE RELEASE
+**FOR IMMEDIATE RELEASE**
 
 Off-Zero Financial, LLC Secures SEC Registration as Investment Advisor, Marking a Significant Milestone in Expansion Plans
 
