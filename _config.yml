@@ -20,13 +20,12 @@
 
 title: Off-Zero Financial
 author:
-  name: Kevin Horner
   email: contact@offzerofinancial.com
 email: contact@offzerofinancial.com
 description: >- # this means to ignore newlines until "baseurl:" 
   © Off-Zero Financial, LLC. 2024. All rights reserved.
 #  Investment advisory services offered through Off-Zero Financial, LLC (\“OZF\”), an investment adviser registered with the Securities and Exchange Commission (SEC). Such registration does not imply endorsement or approval. Investing involves serious risks and past performance is no guarantee of future performance or success. This is not a solicitation or an offer to buy or sell securities and nothing contained herein should be interpreted as a recommendation or research regarding any investment or investment strategy, legal or tax advice.  
-baseurl: "/" # the subpath of your site, e.g. /blog
+#baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.offzerofinancial.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
@@ -70,7 +69,7 @@ exclude:
 # in order as they should show up.
 header_pages:
   - news.md
-  - plan.md
+  - services.md
   - about.md
 
 # Set to `true` to show excerpts on the homepage.
