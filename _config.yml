@@ -20,8 +20,8 @@
 
 title: Off-Zero Financial
 author:
-  email: contact@offzerofinancial.com
-email: contact@offzerofinancial.com
+  email: hello@offzerofinancial.com
+email: hello@offzerofinancial.com
 description: >- # this means to ignore newlines until "baseurl:" 
   © Off-Zero Financial, LLC. 2024. All rights reserved.
 #  Investment advisory services offered through Off-Zero Financial, LLC (\“OZF\”), an investment adviser registered with the Securities and Exchange Commission (SEC). Such registration does not imply endorsement or approval. Investing involves serious risks and past performance is no guarantee of future performance or success. This is not a solicitation or an offer to buy or sell securities and nothing contained herein should be interpreted as a recommendation or research regarding any investment or investment strategy, legal or tax advice.  
@@ -110,3 +110,6 @@ minima:
   #  - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
   #  - { platform: x,              user_url: "https://x.com/_khorner" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
+
+  # Google Analytics
+  google_analytics: G-BGQ15J98GY
