@@ -112,4 +112,5 @@ minima:
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
   # Google Analytics
-  google_analytics: G-BGQ15J98GY
+  google_analytics: "G-BGQ15J98GY"
+
