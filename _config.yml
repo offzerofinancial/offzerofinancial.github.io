@@ -70,6 +70,7 @@ exclude:
 header_pages:
   - news.md
   - services.md
+  - shop.md
   - about.md
 
 # Set to `true` to show excerpts on the homepage.
@@ -111,6 +112,6 @@ minima:
   #  - { platform: x,              user_url: "https://x.com/_khorner" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
-  # Google Analytics
-  google_analytics: "G-BGQ15J98GY"
+# Google Analytics
+google_analytics: "G-BGQ15J98GY"
 
