@@ -4,3 +4,5 @@
 
 layout: home
 ---
+jekyll.environment = {{jekyll.environment}}
+site.google_analytics = {{site.google_analytics}}
